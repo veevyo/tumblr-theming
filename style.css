@@ -10,7 +10,7 @@ body {
 }
 
 article {
-    font-family: "TheGoodMonolith", Arial, sans-serif;
+    font-family: "TheGoodMonolith", Arial, sans-serif; 
     background-color: #24273A;
     border-radius: 0;
 }
@@ -120,7 +120,7 @@ a {
 
 }
 
-.chat-odd .chat-even .blockquote{
+.chat-odd, .chat-even, blockquote{
     font-family: "TheGoodMonolith", Arial, sans-serif !important;
 }
 
@@ -146,6 +146,6 @@ a {
     border-radius: 0;
 }
 
-h1 h2 h3 h4 {
+h1, h2, h3, h4 {
     font-family: "TheGoodMonolith", Arial, sans-serif !important;
 }
