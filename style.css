@@ -1,0 +1,151 @@
+body {
+    font-family: "TheGoodMonolith", Arial, sans-serif !important;
+    color: #A5ADCB !important;
+}
+
+.post {
+    font-family: "TheGoodMonolith", Arial, sans-serif;
+    background-color: #24273A;
+    border-radius: 0 !important;
+}
+
+article {
+    font-family: "TheGoodMonolith", Arial, sans-serif;
+    background-color: #24273A;
+    border-radius: 0;
+}
+
+.post-tumblelog-name {
+    color: #8AADF4 !important;
+}
+
+.post-footer {
+    font-family: "TheGoodMonolith", Arial, sans-serif;
+    background-color: #24273A;
+    color: #A5ADCB !important;
+    border-radius: 0;
+}
+
+.notes {
+    background-color: #202233 !important;
+    color: #A5ADCB !important;
+    border-color: #202233 !important;
+    border-radius: 0;
+}
+
+.notes-anchor {
+    border-color: #202233 !important;
+}
+
+.like {
+    color: #A5ADCB !important;;
+}
+
+.reblog {
+    color: #A5ADCB !important;
+}
+
+.text {
+    font-family: "TheGoodMonolith", Arial, sans-serif;
+    background-color: #202233 !important;
+    color: #A5ADCB !important;
+    border-color: #202233 !important;
+    border-radius: 0 !important;
+}
+
+.note-item .text::after {
+    background-color: #202233;
+}
+
+.post-wrapper {
+    background-color: #24273A;
+}
+
+.post-header {
+    font-family: "TheGoodMonolith", Arial, sans-serif;
+    background-color: #24273A;
+    border-radius: 0;
+    color: #A5ADCB !important;
+    border-bottom: 1px solid #202233 !important;
+}
+
+.u-photo {
+    border-radius: 0 !important;
+    border-bottom: 1px solid #202233 !important;
+}
+
+.asker {
+    color: #EED49F !important;
+}
+
+.answerer {
+    color: #A6DA95 !important;
+}
+
+.reblog-link {
+    color: #F5BDE6 !important;
+}
+a:not(.asker):not(.answerer):not(.reblog-link):not(.share-item):not(.post-notes):not(.share):not(.reblog_button) {
+    color: #8aadf4 !important;
+}
+.quote {
+    font-family: "TheGoodMonolith", Arial, sans-serif;
+}
+
+.post-date {
+    color: #A5ADCB !important;
+}
+
+a {
+    font-family: "TheGoodMonolith", Arial, sans-serif;
+}
+
+.tag-link {
+    color: #8CAAEE !important;
+}
+
+.link {
+    font-family: "TheGoodMonolith" !important;
+    background-color: #24273A !important;
+}
+
+.photo .photo-wrapper {
+  display: table;
+  text-align: center;
+  width: 100%;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  overflow: hidden;
+
+}
+
+.chat-odd .chat-even .blockquote{
+    font-family: "TheGoodMonolith", Arial, sans-serif !important;
+}
+
+.pop-menu {
+    background-color: #1E1E2E;
+    color: #A5ADCB !important;
+}
+
+.share-item {
+    color: #A5ADCB !important;
+}
+
+.share-item:hover {
+    background-color: #24273A !important;
+}
+
+.post-notes {
+    color: #8BD5CA !important;
+}
+
+.notes-wrapper {
+    border-color: #24273A;
+    border-radius: 0;
+}
+
+h1 h2 h3 h4 {
+    font-family: "TheGoodMonolith", Arial, sans-serif !important;
+}
